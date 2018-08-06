@@ -4,6 +4,7 @@ public class Print {
 
 	public void print() {
 		System.out.println("This is under print branch");
+		System.out.println("Print ends");
 	}
 	
 }
