@@ -8,6 +8,7 @@ public class MainClass {
 		System.out.println("Hello World!");
 		greet();
 		SalesClass class1 = new SalesClass();
+		System.out.println("Displaying Sales:");
 		class1.show();
 		
 	}
