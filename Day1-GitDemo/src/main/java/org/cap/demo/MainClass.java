@@ -1,12 +1,14 @@
 package org.cap.demo;
 
 public class MainClass {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World!");
 		greet();
+		SalesClass class1 = new SalesClass();
+		class1.show();
 		
 	}
 	
@@ -15,6 +17,8 @@ public class MainClass {
 		System.out.println("Welcome");
 		System.out.println("To");
 		System.out.println("Git");
+		System.out.println("Repository");
+		
 	}
 
 }
