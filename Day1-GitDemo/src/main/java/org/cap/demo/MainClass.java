@@ -9,6 +9,8 @@ public class MainClass {
 		greet();
 		SalesClass class1 = new SalesClass();
 		class1.show();
+		Print p = new Print();
+		p.print();
 		
 	}
 	
