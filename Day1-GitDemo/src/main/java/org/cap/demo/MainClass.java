@@ -12,6 +12,9 @@ public class MainClass {
 	
 	public static void greet() {
 		System.out.println("Hello");
+		System.out.println("Welcome");
+		System.out.println("To");
+		System.out.println("Git");
 	}
 
 }
